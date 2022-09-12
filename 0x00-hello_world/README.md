@@ -1,1 +1,1 @@
-Write a program that prints exactly "programing is like building a multilingual puzzle, followed by a new line
+Write a C program that prints the size of various types on the computer it is compiled and run on

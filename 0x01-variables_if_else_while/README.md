@@ -1,1 +1,1 @@
-Write a program that prints all possible combinations of single-digit numbers
+Positive anything is better than negative nothing

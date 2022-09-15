@@ -1,1 +1,1 @@
-Write a function that commutes the absolute value of an integer
+ Write a function that prints the last digit of a number

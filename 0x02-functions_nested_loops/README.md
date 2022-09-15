@@ -1,1 +1,1 @@
-Write a function that prints all natural numbers from n to 98, followed by a new line
+Write a function that prints the alphabet, in lowercase, followed by a new line
